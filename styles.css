@@ -1,19 +1,22 @@
 /* STYLES */
 
 body {
-    background: rgb(234, 219, 202);
-    color: rgb(17, 42, 91);
-    font-family: 'Merriweather', serif;
+    background: rgb(6, 35, 78);
+    color: rgb(245, 228, 212);
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+
 }
 
 h1 {
-    font-size: 100px;
-    line-height: 110px;
-    -webkit-text-fill-color: cornsilk;
-    -webkit-text-stroke-color: rgb(17, 42, 91);
-    -webkit-text-stroke-width: 2px;
+    font-size: 75px;
+    line-height: 75px;
+    -webkit-text-fill-color: cornflowerblue;
+    -webkit-text-stroke-color: blueviolet;
+    -webkit-text-stroke-width: 0.3px;
     text-align: left;
-    font-family: 'Creepster', cursive;
+    font-family: 'Bebas Neue', sans-serif;
+    font-style: medium;
 
 }
 
@@ -26,8 +29,20 @@ main {
 h2 {
     color: white;
     text-decoration: none;
-    border: 2px solid;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid;
+    border-color: blueviolet;
     padding: 1px 4px;
     border-radius: 8px;
     transition: opacity;
+}
+
+h4 {
+
+    color: blueviolet
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic
+
 }
