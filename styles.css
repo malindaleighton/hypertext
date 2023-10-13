@@ -1,0 +1,33 @@
+/* STYLES */
+
+body {
+    background: rgb(234, 219, 202);
+    color: rgb(17, 42, 91);
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 100px;
+    line-height: 110px;
+    -webkit-text-fill-color: cornsilk;
+    -webkit-text-stroke-color: rgb(17, 42, 91);
+    -webkit-text-stroke-width: 2px;
+    text-align: left;
+    font-family: 'Creepster', cursive;
+
+}
+
+main {
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 16px;
+}
+
+h2 {
+    color: white;
+    text-decoration: none;
+    border: 2px solid;
+    padding: 1px 4px;
+    border-radius: 8px;
+    transition: opacity;
+}
